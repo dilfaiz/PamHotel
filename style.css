@@ -351,6 +351,7 @@ gap: 2rem;
 .intro_video{
 
     max-width: 85%;
+   padding-block: 1rem;
     margin: auto;
     box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.2);
 
